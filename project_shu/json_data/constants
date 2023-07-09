@@ -1,0 +1,44 @@
+{
+    "kakao_chatroom_name": "2023-1 SUB \uc7a5\ube44\ud1a1\ubc29",
+    "kakao_noticeroom_name": "2023-1 SUB \uc7a1\ub2f4\ubc29",
+    "TOOL_LIST": [
+        "\ub179\uc74c\uc2e4",
+        "\ub370\uc138\ub784 2\uac1c",
+        "\ubbf8\ub7ec\ub9ac\uc2a4 2\uac1c",
+        "\ud578\ub514 2\uac1c",
+        "\ud0c0\uc2a4\ucea0 2\uac1c",
+        "\ubb34\uc120 \ub9c8\uc774\ud06c 2\uac1c",
+        "\uc870\uba85 2\uac1c",
+        "\ubc18\uc0ac\ud310 2\uac1c",
+        "\ub370\uc138\ub784 1",
+        "\ub370\uc138\ub784 2",
+        "\ubbf8\ub7ec\ub9ac\uc2a4 1",
+        "\ubbf8\ub7ec\ub9ac\uc2a4 2",
+        "\ud578\ub514 1",
+        "\ud578\ub514 2",
+        "ENG",
+        "\ud0c0\uc2a4\ucea0 1",
+        "\ud0c0\uc2a4\ucea0 2",
+        "\ubb34\uc120 \ub9c8\uc774\ud06c 1",
+        "\ubb34\uc120 \ub9c8\uc774\ud06c 2",
+        "\uc870\uba85 1",
+        "\uc870\uba85 2",
+        "\ubc18\uc0ac\ud310 1",
+        "\ubc18\uc0ac\ud310 2",
+        "\uc0bc\uac01\ub300",
+        "\uc9d0\ubc8c",
+        "\ucea1\uccd0\ubc15\uc2a4",
+        "\ud39c \ud0dc\ube14\ub9bf",
+        "SD\uce74\ub4dc",
+        "\uc9c0\ud5a5\uc131 \ub9c8\uc774\ud06c",
+        "\ubc30\ud130\ub9ac"
+    ],
+    "EX_LIST": [
+        "\uc0bc\uac01\ub300",
+        "\ubc30\ud130\ub9ac",
+        "SD\uce74\ub4dc"
+    ],
+    "REPLACE_DIC": {
+        "DSLR": "\ub370\uc138\ub784"
+    }
+}
