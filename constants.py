@@ -182,5 +182,5 @@ try:
     updateAllConstants()
     #print("no problem")
 except:
-    saveAllConstants()
-    #print("fucking problem")
+    #saveAllConstants()
+    print("error: constant load problem")
