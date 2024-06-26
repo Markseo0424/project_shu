@@ -1,3 +1,5 @@
+from secure import token, databaseId, archiveId, calanderId
+
 kakao_chatroom_name = '2023-2 SUB 장비톡방'
 kakao_noticeroom_name = '2023-2 SUB 잡담방'
 
@@ -70,10 +72,6 @@ REPLACE_DIC = {
         "수레" : "웨건"
     }
 
-token = "secret_6lAn3IrCYc1FSxB4EWZmek7kkKBiofPBR9Y8zEluVrn"
-databaseId = "1b276dd0b57a485296e7df3ae72f8505"
-archiveId = "4d95169579714fe08c075bd987c5b7c0"
-calanderId = "fbed4572e5124405a747a3ad8591505e"
 headers = {
     "Authorization": "Bearer " + token,
     "Content-Type": "application/json",
